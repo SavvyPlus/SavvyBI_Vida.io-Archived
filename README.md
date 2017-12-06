@@ -1,7 +1,3 @@
-# Setup Instruction
-
-Node version: 4.4.7
-
 # Mac Build
 
 - Unzip vida-savvyplus-mac.zip file.
