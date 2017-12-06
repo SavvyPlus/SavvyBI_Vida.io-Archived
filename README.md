@@ -16,7 +16,7 @@
 - Wait for a few seconds for node server to start.
 - Open web browser and go to http://localhost:8080 to view documents and dashboards.
 
-# Dashboards
+# Dashboards and Visualizations
 
 - SavvyBI Electricity Spot Market Analysis - Crossfilter (DB): crossfilter dashboard with data in mongodb database.
 
@@ -25,6 +25,10 @@ http://localhost:8080/dashboards/qrX54RSxtaKC3ZpjM
 - SavvyBI Electricity Spot Market Analysis - Crossfilter (panoply.io): crossfilter dashboard with data from panoply.io service.
 
 http://localhost:8080/dashboards/i7MQRv662a7uvtxGP
+
+- SavvyBI - Price over Time
+
+http://localhost:8080/documents/njRGrMEPLDCPgqycg
 
 # Contact Info
 
